@@ -14,4 +14,4 @@ Kogay, Roman, et al. ”Machine-learning classification suggests that many alpha
 
 ## Book Chapters
 
-Hankel, Camille, and Eli Tziperman. “Greenhouse.” * Global Warming Science*, Princeton University Press, in press.
+Hankel, Camille, and Eli Tziperman. “Greenhouse.” *Global Warming Science*, Princeton University Press, in press.
