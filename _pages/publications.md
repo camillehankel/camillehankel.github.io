@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Articles
 
-{% include base_path %}
+Hankel, Camille, and Eli Tziperman. “The Role of Atmospheric Feedbacks in Abrupt Winter Arctic Sea Ice Loss in Future Warming Scenarios.” *Journal of Climate* 34.11 (2021): 4435-4447. https://doi.org/10.1175/JCLI-D-20-0558.1
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Kogay, Roman, et al. ”Machine-learning classification suggests that many alphaproteobacterial prophages may instead be gene transfer agents.” *Genome biology and evolution* 11.10 (2019): 2941- 2953.https://doi.org/10.1093/gbe/evz206
+
+
+## Book Chapters
+
+Hankel, Camille, and Eli Tziperman. “Greenhouse.” * Global Warming Science*, Princeton University Press, in press.

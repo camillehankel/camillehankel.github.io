@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "EPS131: Introudcution to Physical Oceanography and Climate"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+venue: "Harvard University, Earth and Planetary Sciences"
+date: 2022
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This upcoming Spring (2022) I will serve as the TF for Introduction to Physical Oceanography and Climate, which gives a basic introduction to fluid dynamics and ocean physics in order to explore topics such as ocean circulation and waves, climate stability, El Niño, and changes under global warming. 
