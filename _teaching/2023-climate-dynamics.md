@@ -1,5 +1,4 @@
-
----
+--
 title: "EPS231: Climate Dynamics"
 collection: teaching
 type: "Graduate course"
