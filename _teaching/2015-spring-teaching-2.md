@@ -1,5 +1,5 @@
 ---
-title: "EPS131: Introudcution to Physical Oceanography and Climate"
+title: "EPS131: Introduction to Physical Oceanography and Climate"
 collection: teaching
 type: "Undergraduate course"
 venue: "Harvard University, Earth and Planetary Sciences"
