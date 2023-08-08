@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Articles
-Hankel, Camille. "The effect of CO2 ramping rate on transient weakening of the Atlantic Meridional Overturning Circulation". _In prep._
+Hankel, Camille. "The effect of CO2 ramping rate on transient weakening of the Atlantic Meridional Overturning Circulation." _In prep._
 
 Hankel, Camille, and Eli Tziperman. "Assessing the robustness of Arctic sea ice bi-stability in the presence of atmospheric feedbacks." *Under review at JGR Atmospheres.*
 
@@ -19,4 +19,4 @@ Kogay, Roman, et al. ”Machine-learning classification suggests that many alpha
 
 ## Book Chapters
 
-Hankel, Camille, and Eli Tziperman. “Greenhouse.” *Global Warming Science*, Princeton University Press, in press.
+Hankel, Camille, and Eli Tziperman. “Greenhouse.” *Global Warming Science: a quantitative introduction to climate change and its consequences*, Princeton University Press, 2022.
