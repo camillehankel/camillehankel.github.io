@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Camille Hankel"
+  name             : "Dr. Camille Hankel"
   avatar           : "prof_pic_1.jpg"
-  bio              : "Ph.D. Candidate in Earth and Planetary Sciences, Harvard University"
-  location         : "Cambridge, MA"
+  bio              : "Postdoctoral Fellow, University of Washington"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : camille_hankel@g.harvard.edu
+  email            : crhankel@uw.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
