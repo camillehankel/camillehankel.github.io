@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Articles
-Hankel, Camille. "The effect of CO2 ramping rate on transient weakening of the Atlantic Meridional Overturning Circulation." _Under review._
+Hankel, Camille. "The effect of CO2 ramping rate on transient weakening of the Atlantic Meridional Overturning Circulation." _Proceedings of the National Academy of Sciences._ In press.
 
 Hankel, Camille, and Eli Tziperman. "Assessing the robustness of Arctic sea ice bi-stability in the presence of atmospheric feedbacks." *Journal of Geophysical Research: Atmospheres* 128.21 (2023): e2023JD039337. [https://doi.org/10.1029/2023JD039337](https://doi.org/10.1029/2023JD039337)
 
