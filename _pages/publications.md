@@ -8,6 +8,8 @@ author_profile: true
 ## Articles
 Hankel, Camille. "The effect of CO2 ramping rate on the transient weakening of the Atlantic Meridional Overturning Circulation." *Proceedings of the National Academy of Sciences* 122.1 (2025): e2411357121. [https://doi.org/10.1073/pnas.2411357121](https://doi.org/10.1073/pnas.2411357121) [pdf](/files/hankel-2024-the-effect-of-co2-ramping-rate-on-the-transient-weakening-of-the-atlantic-meridional-overturning-circulation.pdf) [supp](/files/pnas.2411357121.sapp.pdf)
 
+- Recently featured on an episode of [Radio Ecoshock](https://www.ecoshock.org/2025/01/clouds-currents-future.html) (second half of the program) and in the [UW News](https://www.washington.edu/news/2025/01/27/qa-how-rate-of-co2-rise-can-affect-a-global-ocean-current/).  
+
 Hankel, Camille, and Eli Tziperman. "Assessing the robustness of Arctic sea ice bi-stability in the presence of atmospheric feedbacks." *Journal of Geophysical Research: Atmospheres* 128.21 (2023): e2023JD039337. [https://doi.org/10.1029/2023JD039337](https://doi.org/10.1029/2023JD039337)
 
 Hankel, Camille, and Eli Tziperman. "An approach for projecting the timing of abrupt winter Arctic sea ice loss." *Nonlinear Processes in Geophysics* 30.3 (2023): 299-309. [https://doi.org/10.5194/npg-30-299-2023](https://doi.org/10.5194/npg-30-299-2023)
