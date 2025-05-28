@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a CICOES and NSF Atmosphere and Geospace Sciences Postdoctoral Fellow at the University of Washington, advised by Cecilia Bitz and Wei Cheng (NOAA PMEL).
+I am a CICOES and NSF Atmosphere and Geospace Sciences Postdoctoral Fellow at the University of Washington, advised by Cecilia Bitz and Wei Cheng.
 
-I am interested in multiple climate equilibria, bifurcation theory and nonlinear dynamics, and positive feedback mechanisms. Specifically, I work on understanding the dynamical systems that influence the stability of Arctic sea ice in order to study the potential for abrupt sea ice loss in a warming climate. I am also interested in how the _rate_ of anthropogenic warming (not just the magnitude) affects climate phenomena (such as AMOC) that are governed by mechanisms operating at both slow and fast timescales. I broadly tend towards a hierarchical modeling approach in my research, seeking inspiration from observations and realistic climate model output and implementing simple toy models to provide mechanistic insight into complex phenomena. 
+I am interested in nonlinearities in the climate system and positive feedback mechanisms, particularly those that apply to the high latitudes. Currently, I am working towards building an understanding of how the _rate_ of anthropogenic warming (not just the magnitude) affects large-scale climate phenomena such as the Atlantic Meridional Overturning Circulation and polar amplified warming. I am also interested in the dynamical systems properties that govern Arctic sea ice and may influence its potential for abrupt disappearance in a warming climate. I broadly tend towards a hierarchical modeling approach in my research, seeking inspiration from observations and realistic climate model output and implementing simple toy models to provide mechanistic insight into complex phenomena. 
 
 Learn more about my [publications](https://camillehankel.github.io/publications/), and my [teaching](https://camillehankel.github.io/teaching/) experience.
