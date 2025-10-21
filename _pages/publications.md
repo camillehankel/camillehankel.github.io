@@ -7,11 +7,11 @@ author_profile: true
 
 ## Manuscripts in preparation/submitted
 
-Hankel, Camille and David Bonan. "Impact of CO2 forcing-rate on the transient evolution of Arctic amplification.'' *In prep for GRL.*
+Hankel, Camille and David Bonan. "Transient evolution of polar amplification under different CO2 ramping rates.'' *Submitted to GRL.*
 
 Hankel, Camille, and Edward Blanchard-Wrigglesworth. "Increasing boreal fire activity reduces AMOC decline." *In prep for GRL.*
 
-Hankel, Camille, Wei Cheng, and Cecilia Bitz. "Arctic sea ice meltwater as a forcing and feedback on the Atlantic Meridional Overturning Circulation." *Under review at Journal of Climate.*
+Hankel, Camille, Wei Cheng, and Cecilia Bitz. "Arctic sea ice meltwater as a forcing and feedback on the Atlantic Meridional Overturning Circulation." *Revision submitted to Journal of Climate.*
 
 ## Peer-reviewed articles
 Hankel, Camille. "The effect of CO2 ramping rate on the transient weakening of the Atlantic Meridional Overturning Circulation." *Proceedings of the National Academy of Sciences* 122.1 (2024): e2411357121. [https://doi.org/10.1073/pnas.2411357121](https://doi.org/10.1073/pnas.2411357121) [pdf](/files/hankel-2024-the-effect-of-co2-ramping-rate-on-the-transient-weakening-of-the-atlantic-meridional-overturning-circulation.pdf) [supp](/files/pnas.2411357121.sapp.pdf)
