@@ -7,9 +7,9 @@ author_profile: true
 
 ## Manuscripts in preparation/submitted
 
-Hankel, Camille and David Bonan. "Transient evolution of polar amplification under different CO2 ramping rates.'' *Submitted to GRL.*
+Hankel, Camille, and Edward Blanchard-Wrigglesworth. "Increasing boreal fire activity reduces AMOC decline." *In prep.*
 
-Hankel, Camille, and Edward Blanchard-Wrigglesworth. "Increasing boreal fire activity reduces AMOC decline." *In prep for GRL.*
+Hankel, Camille and David Bonan. "Transient evolution of polar amplification under different CO2 ramping rates.'' *Submitted to GRL.*
 
 Hankel, Camille, Wei Cheng, and Cecilia Bitz. "Arctic sea ice meltwater as a forcing and feedback on the Atlantic Meridional Overturning Circulation." *Revision submitted to Journal of Climate.*
 
