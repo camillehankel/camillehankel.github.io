@@ -11,9 +11,9 @@ Hankel, Camille, and Edward Blanchard-Wrigglesworth. "Increasing boreal fire act
 
 Hankel, Camille and David Bonan. "Transient evolution of polar amplification under different CO2 ramping rates.'' *Submitted to GRL.* [preprint](https://essopenarchive.org/users/982911/articles/1348743-transient-evolution-of-polar-amplification-under-different-co2-ramping-rates).
 
-Hankel, Camille, Wei Cheng, and Cecilia Bitz. "Arctic sea ice meltwater as a forcing and feedback on the Atlantic Meridional Overturning Circulation." *Revision submitted to Journal of Climate.*
-
 ## Peer-reviewed articles
+Hankel, Camille, Wei Cheng, and Cecilia Bitz. "Arctic sea ice meltwater as a forcing and feedback on the Atlantic Meridional Overturning Circulation." *In press with Journal of Climate.*
+
 Hankel, Camille. "The effect of CO2 ramping rate on the transient weakening of the Atlantic Meridional Overturning Circulation." *Proceedings of the National Academy of Sciences* 122.1 (2024): e2411357121. [https://doi.org/10.1073/pnas.2411357121](https://doi.org/10.1073/pnas.2411357121) [pdf](/files/hankel-2024-the-effect-of-co2-ramping-rate-on-the-transient-weakening-of-the-atlantic-meridional-overturning-circulation.pdf) [supp](/files/pnas.2411357121.sapp.pdf)
 
 - Recently featured on an episode of [Radio Ecoshock](https://www.ecoshock.org/2025/01/clouds-currents-future.html) (second half of the program) and in the [UW News](https://www.washington.edu/news/2025/01/27/qa-how-rate-of-co2-rise-can-affect-a-global-ocean-current/).  
