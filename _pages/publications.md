@@ -12,6 +12,8 @@ Hankel, Camille, Edward Blanchard-Wrigglesworth, and Haruki Hirasawa. "Increasin
 ## Peer-reviewed articles
 Hankel, Camille, and David Bonan. "Transient evolution of polar amplification under different CO2 ramping rates." *Geophysical Research Letters* 53 (2026): e2025GL120079. [https://doi.org/10.1029/2025GL120079](https://doi.org/10.1029/2025GL120079)
 
+- Highlighted in the AGU News [Featured Research](https://news.agu.org/3-26-2026-super-wet-winters-may-recharge-western-u-s-mountains-groundwater/)
+
 Hankel, Camille, Wei Cheng, and Cecilia Bitz. "Arctic sea ice meltwater as a forcing and feedback on the Atlantic Meridional Overturning Circulation." *Journal of Climate* (2026): e250254. [https://doi.org/10.1175/JCLI-D-25-0254.1](https://doi.org/10.1175/JCLI-D-25-0254.1)
 
 Hankel, Camille. "The effect of CO2 ramping rate on the transient weakening of the Atlantic Meridional Overturning Circulation." *Proceedings of the National Academy of Sciences* 122.1 (2024): e2411357121. [https://doi.org/10.1073/pnas.2411357121](https://doi.org/10.1073/pnas.2411357121) [pdf](/files/hankel-2024-the-effect-of-co2-ramping-rate-on-the-transient-weakening-of-the-atlantic-meridional-overturning-circulation.pdf) [supp](/files/pnas.2411357121.sapp.pdf)
