@@ -7,7 +7,13 @@ author_profile: true
 
 ## Manuscripts in preparation/submitted
 
-Hankel, Camille, Edward Blanchard-Wrigglesworth, and Haruki Hirasawa. "Increasing boreal fire activity reduces AMOC decline." *In prep.*
+Zhang, Sally and Camille Hankel. "Millennial-Scale transient and equilibrium responses of regional eddy-driven jets to CO2 doubling." *In prep.*
+
+Bonan, David and Camille Hankel. "Forcing-rate dependent transient climate sensitivity." *In prep.*
+
+Hankel, Camille, Edward Blanchard-Wrigglesworth, and Haruki Hirasawa. "Increasing boreal fire emissions suppress AMOC decline." *Submitted.*
+
+Yu-Chiao Liang, David Bonan, Lily C. Hahn, Nicole Feldl, Camille Hankel, Ivy Tan, Lise Selan Graff, Marius Arthun, Doyeon Ki, Mark R. England, and Felix Pithan. "Arctic amplification in observations and models of varying complexity [review article]." *Under review at Nature Reviews Earth and the Environment*.
 
 ## Peer-reviewed articles
 Hankel, Camille, and David Bonan. "Transient evolution of polar amplification under different CO2 ramping rates." *Geophysical Research Letters* 53 (2026): e2025GL120079. [https://doi.org/10.1029/2025GL120079](https://doi.org/10.1029/2025GL120079)
